@@ -1,0 +1,149 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "تنباکو ناریـا کلاسیک",
+            "description": "ترکیب اصیل و لوکس تنباکو ناریـا با عطر ملایم",
+            "price": 450000,
+            "category": "تنباکو",
+            "image": "",
+            "stock": 50,
+            "featured": 1,
+            "active": 1,
+            "created_at": "2026-09-29 13:49:08"
+        },
+        {
+            "id": 2,
+            "name": "تنباکو ناریـا اسپشیال",
+            "description": "طعم خاص و ماندگار برای هوکا",
+            "price": 520000,
+            "category": "تنباکو",
+            "image": "",
+            "stock": 40,
+            "featured": 1,
+            "active": 1,
+            "created_at": "2026-09-29 13:49:08"
+        },
+        {
+            "id": 3,
+            "name": "سیگار ناریـا پریموم",
+            "description": "بسته‌بندی لوکس و کیفیت بالا",
+            "price": 380000,
+            "category": "سیگار",
+            "image": "",
+            "stock": 60,
+            "featured": 0,
+            "active": 1,
+            "created_at": "2026-09-29 13:49:08"
+        },
+        {
+            "id": 4,
+            "name": "اکسسوری هوکا طلایی",
+            "description": "ست کامل اکسسوری هوکا با طراحی ناریـا",
+            "price": 890000,
+            "category": "هوکا",
+            "image": "",
+            "stock": 24,
+            "featured": 1,
+            "active": 1,
+            "created_at": "2026-09-29 13:49:08"
+        },
+        {
+            "id": 5,
+            "name": "شیشه هوکا ناریـا",
+            "description": "شیشه دست‌ساز با کیفیت پریمیوم",
+            "price": 650000,
+            "category": "هوکا",
+            "image": "",
+            "stock": 30,
+            "featured": 0,
+            "active": 1,
+            "created_at": "2026-09-29 13:49:08"
+        },
+        {
+            "id": 6,
+            "name": "ویپ پاد ناریـا",
+            "description": "پاد و لوازم جانبی ویپ",
+            "price": 720000,
+            "category": "ویپ و پاد",
+            "image": "",
+            "stock": 35,
+            "featured": 0,
+            "active": 1,
+            "created_at": "2026-09-29 13:49:08"
+        },
+        {
+            "id": 7,
+            "name": "زغال مخصوص هوکا",
+            "description": "زغال مرغوب و کم دود",
+            "price": 180000,
+            "category": "هوکا",
+            "image": "",
+            "stock": 100,
+            "featured": 0,
+            "active": 1,
+            "created_at": "2026-09-29 13:49:08"
+        },
+        {
+            "id": 8,
+            "name": "کالکشن ناریـا ویژه",
+            "description": "پکیج کامل محصولات منتخب",
+            "price": 1250000,
+            "category": "تنباکو",
+            "image": "",
+            "stock": 15,
+            "featured": 1,
+            "active": 1,
+            "created_at": "2026-09-29 13:49:08"
+        },
+        {
+            "name": "کون بابک",
+            "description": "",
+            "price": 100000,
+            "category": "هوکا",
+            "image": "p_1790698837_e49eacb9.jpg",
+            "stock": 1,
+            "featured": 1,
+            "active": 1,
+            "id": 9,
+            "created_at": "2026-09-29 19:50:37"
+        }
+    ],
+    "orders": [
+        {
+            "id": 1,
+            "customer_name": "یبلیلیب",
+            "phone": "09134979649",
+            "address": "تتبلابلابایبلسیبیزربلط",
+            "notes": "",
+            "total": 890000,
+            "status": "confirmed",
+            "created_at": "2026-09-29 14:28:51"
+        }
+    ],
+    "order_items": [
+        {
+            "id": 1,
+            "order_id": 1,
+            "product_id": 4,
+            "product_name": "اکسسوری هوکا طلایی",
+            "quantity": 1,
+            "price": 890000
+        }
+    ],
+    "next_product_id": 10,
+    "next_order_id": 2,
+    "next_item_id": 2,
+    "support_tickets": [
+        {
+            "id": 1,
+            "name": "معین",
+            "phone": "09134979649",
+            "subject": "کون بابک موجوده ؟",
+            "message": "لتبتلبا",
+            "status": "answered",
+            "created_at": "2026-09-29 18:54:40"
+        }
+    ],
+    "next_support_id": 2
+}
